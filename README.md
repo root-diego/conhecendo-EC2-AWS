@@ -21,7 +21,6 @@ Este repositório contém minha documentação prática com a criação e o gere
   <img src="https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/CloudWatch-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch" />
   <img src="https://img.shields.io/badge/Amazon%20Linux-%23232F3E?style=for-the-badge&logo=linux&logoColor=white" alt="Amazon Linux" />
 
 </div>
