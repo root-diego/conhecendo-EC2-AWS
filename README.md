@@ -63,13 +63,13 @@ Este repositório contém minha documentação prática com a criação e o gere
 
 #### Tipo da instância e Key Pair 
 
-![Tipo e Key Pair](ec2-screenshots/03_tipo_keypair.png)
+![tipo_keypair](ec2-screenshots/03_tipo_keypair.png)
 
 #### Configuração de rede e grupos de segurança  
 
-![Configuração de Rede](ec2-screenshots/04_rede.png)
+![rede](ec2-screenshots/04_rede.png)
 
-![Security Group](ec2-screenshots/05_security_group.png)
+![security_group](ec2-screenshots/05_security_group.png)
 
 #### Configuração do volume de armazenamento 
 
