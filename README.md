@@ -9,7 +9,7 @@ Este repositório contém minha documentação prática com a criação e o gere
 - Instalação e execução de serviços no Linux (como o Apache HTTP Server)  
 - Redimensionamento de instâncias (CPU/RAM)  
 - Modificação de volumes EBS (aumentar armazenamento)  
-- Gerenciamento de portas com Grupos de Segurança (Security Groups)  
+- Gerenciamento de portas com Grupo de Segurança (Security Groups)  
 - Parar, reiniciar e encerrar instâncias EC2  
 
 ---
