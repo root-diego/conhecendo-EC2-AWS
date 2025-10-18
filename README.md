@@ -35,8 +35,8 @@ Este repositório contém minha documentação prática com a criação e o gere
 ```
 
 ├── ec2-screenshots/ # Capturas de tela organizadas por etapa
-├── script.sh # Inicialização da instância EC2 (instalação do Apache e criação da página HTML personalizada)
-└── README.md # Este arquivo
+├── README.md # Este arquivo
+└── script.sh # Inicialização da instância EC2 (instalação do Apache e criação da página HTML personalizada)
 
 ````
 
