@@ -194,3 +194,12 @@ systemctl enable httpd
 
 ![instancia_finalizada](ec2-screenshots/16_instancia_finalizada.png)
 
+---
+
+⚠️ ***Observação***
+
+***O acesso ao servidor web é limitado ao ambiente de treinamento da AWS.***  
+O laboratório possui tempo de execução restrito e, após o período estipulado, os recursos são automaticamente encerrados, tornando o servidor inacessível.
+
+
+
