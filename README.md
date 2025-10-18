@@ -34,9 +34,9 @@ Este repositório contém minha documentação prática com a criação e o gere
 
 ```
 
-├── ec2-screenshots/   # Capturas de tela organizadas por etapa
-├── script.sh          # Inicialização da instância EC2 (instalação do Apache e criação da página HTML personalizada)
-└── README.md          # Este arquivo
+├── ec2-screenshots/ # Capturas de tela organizadas por etapa
+├── script.sh # Inicialização da instância EC2 (instalação do Apache e criação da página HTML personalizada)
+└── README.md # Este arquivo
 
 ````
 
@@ -55,29 +55,29 @@ Este repositório contém minha documentação prática com a criação e o gere
 
 #### Nome da instância
 
-01_nome.png
+![Nome da instância](ec2-screenshots/01_nome.png)
 
 #### Escolha de AMI (Amazon Machine Image)
 
-02_escolha_AMI.png
+![Escolha da AMI](ec2-screenshots/02_escolha_AMI.png)
 
 #### Tipo da instância e Key Pair 
 
-03_tipo_e_key_pair.png
+![Tipo e Key Pair](ec2-screenshots/03_tipo_keypair.png)
 
 #### Configuração de rede e grupos de segurança  
 
-04_redes.png
+![Configuração de Rede](ec2-screenshots/04_rede.png)
 
-05_security_group.png
+![Security Group](ec2-screenshots/05_security_group.png)
 
 #### Configuração do volume de armazenamento 
 
-06_volume.png
+![volume](ec2-screenshots/06_volume.png)
 
 #### Ativação da proteção contra término durante o lançamento da instância  
 
-07_protecao_termino.png
+![protecao_termino](ec2-screenshots/07_protecao_termino.png)
 
 ---
 
@@ -90,7 +90,7 @@ ssh -i "vockey.pem" ec2-user@ec2-34-210-1-68.us-west-2.compute.amazonaws.com
 
 #### 🧑‍💻 Acesso via terminal (Linux)
 
-08_acesso_ssh.png
+![acesso_ssh](ec2-screenshots/08_acesso_ssh.png)
 
 ---
 
@@ -156,7 +156,7 @@ systemctl enable httpd
 
 #### 🌐 Acesso ao servidor web com sucesso
 
-09_acesso_web_server.png
+![acesso_web_server](ec2-screenshots/09_acesso_web_server.png)
 
 ---
 
@@ -164,15 +164,15 @@ systemctl enable httpd
 
 * Parada da instância para o Redimensionamento
 
-10_parada_instancia.png
+![parada_instancia](ec2-screenshots/10_parada_instancia.png)
 
 * Tipo da instância alterado: `t3.micro` → `t3.small`
 
-11_alteracao_tipo.png
+![alteracao_tipo](ec2-screenshots/11_alteracao_tipo.png)
 
 * Volume EBS expandido: 8 GiB → 10 GiB
 
-12_volume_modificado.png
+![volume_modificado](ec2-screenshots/12_volume_modificado.png)
 
 ---
 
@@ -180,17 +180,17 @@ systemctl enable httpd
 
 * Falha no término da instância
 
-13_falha_termino_instancia.png
+![falha_termino_instancia](ec2-screenshots/13_falha_termino_instancia.png)
 
 * Proteção desativada manualmente
 
-14_desativacao_protecao.png
+![desativacao_protecao](ec2-screenshots/14_desativacao_protecao.png)
 
 * Remoção da proteção contra término
 
-15_remocao_protecao.png
+![remocao_protecao](ec2-screenshots/15_remocao_protecao.png)
 
 * Instância finalizada com sucesso
 
-16_instancia_finalizada.png
+![instancia_finalizada](ec2-screenshots/16_instancia_finalizada.png)
 
