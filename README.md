@@ -64,7 +64,7 @@ Este repositório contém minha documentação prática com a criação e o gere
 
 ![tipo_e_key_pair](ec2-screenshots/03_tipo_e_key_pair.png)
 
-#### Configuração de rede e grupos de segurança
+#### Configuração de rede e grupo de segurança
 * Rede
 
 ![redes](ec2-screenshots/04_redes.png)
