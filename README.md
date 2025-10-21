@@ -81,6 +81,10 @@ Este repositório contém minha documentação prática com a criação e o gere
 
 ![protecao_termino](ec2-screenshots/07_protecao_termino.png)
 
+### Print da instância
+
+![print_instancia](awsinstancescreenshot.jpg)
+
 ---
 
 ### 2. Conectando-se à instância via SSH
