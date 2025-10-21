@@ -83,7 +83,7 @@ Este repositório contém minha documentação prática com a criação e o gere
 
 ### Print da instância
 
-![print_instancia](awsinstancescreenshot.jpg)
+![print_instancia](ec2-screenshots/awsinstancescreenshot.jpg)
 
 ---
 
